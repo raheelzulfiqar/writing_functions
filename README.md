@@ -10,7 +10,7 @@ Write a function to return the minimum and maximum averages of the sequences of 
 ### Example
 
 ```
-J = [4, 4, 9, 10, 11, 12]
+J = [4, 4, 4, 9, 10, 11, 12]
 p = 3
 ```
 
